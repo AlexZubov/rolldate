@@ -1,5 +1,5 @@
 {
-  "name": "rolldate",
+  "name": "rolldate-full",
   "version": "3.2.0",
   "description": "rolldate Multi-format, powerful mobile date selection plugin",
   "main": "dist/rolldate.min.js",
@@ -16,9 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/weijhfly/rolldate"
+    "url": "https://github.com/AlexZubov/rolldate"
   },
   "author": "雾空",
+  "contributors": "AlexZ",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
