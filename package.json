@@ -1,7 +1,7 @@
 {
   "name": "rolldate",
-  "version": "3.1.2",
-  "description": "rolldate 多格式、功能强大的移动端日期选择插件",
+  "version": "3.2.0",
+  "description": "rolldate Multi-format, powerful mobile date selection plugin",
   "main": "dist/rolldate.min.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --config config/rolldate.config.js --mode development",
