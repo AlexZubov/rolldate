@@ -1,5 +1,5 @@
-# rolldate [![npm](https://img.shields.io/npm/v/rolldate.svg)](https://www.npmjs.com/package/rolldate) [![npm](https://img.shields.io/npm/dm/rolldate.svg)](https://www.npmjs.com/package/rolldate)
-This plugin is a new version of jquery-date. It is mainly used to solve the problem that the previous version of the parameter design is not reasonable, the sliding efficiency is not high, it depends on jquery, there is no optional theme style, and the callback function is added to make the plugin more flexible.
+# rolldate-full [![npm](https://img.shields.io/npm/v/rolldate-full.svg)](https://www.npmjs.com/package/rolldate-full) [![npm](https://img.shields.io/npm/dm/rolldate-full.svg)](https://www.npmjs.com/package/rolldate-full)
+This plugin is a new version of rolldate (jquery-date). It is mainly used to solve the problem that the previous version of the parameter design is not reasonable, the sliding efficiency is not high, it depends on jquery, there is no optional theme style, and the callback function is added to make the plugin more flexible.
 
 ## Usage
 ### es6
