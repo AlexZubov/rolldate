@@ -1,6 +1,6 @@
 {
   "name": "rolldate-full",
-  "version": "3.2.2",
+  "version": "3.2.3",
   "description": "rolldate Multi-format, powerful mobile date selection plugin",
   "main": "dist/rolldate.min.js",
   "scripts": {
