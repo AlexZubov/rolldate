@@ -80,11 +80,11 @@ rd.hide();
 
 ```
 
-####Example
+### Photo
 
 ![example](https://github.com/AlexZubov/rolldate/blob/master/example.jpg?raw=true)
 
-####Keywords
+### Keywords
 
 js-date date time ios-theme ios выбор даты роллер
 
